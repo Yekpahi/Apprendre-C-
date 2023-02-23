@@ -1,0 +1,17 @@
+D:\Code informatique\Apprendre C#\udemy\AgeCalc\bin\Debug\net6.0-windows\AgeCalc.exe
+D:\Code informatique\Apprendre C#\udemy\AgeCalc\bin\Debug\net6.0-windows\AgeCalc.deps.json
+D:\Code informatique\Apprendre C#\udemy\AgeCalc\bin\Debug\net6.0-windows\AgeCalc.runtimeconfig.json
+D:\Code informatique\Apprendre C#\udemy\AgeCalc\bin\Debug\net6.0-windows\AgeCalc.dll
+D:\Code informatique\Apprendre C#\udemy\AgeCalc\bin\Debug\net6.0-windows\AgeCalc.pdb
+D:\Code informatique\Apprendre C#\udemy\AgeCalc\obj\Debug\net6.0-windows\AgeCalc.csproj.AssemblyReference.cache
+D:\Code informatique\Apprendre C#\udemy\AgeCalc\obj\Debug\net6.0-windows\AgeCalc.Form1.resources
+D:\Code informatique\Apprendre C#\udemy\AgeCalc\obj\Debug\net6.0-windows\AgeCalc.csproj.GenerateResource.cache
+D:\Code informatique\Apprendre C#\udemy\AgeCalc\obj\Debug\net6.0-windows\AgeCalc.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code informatique\Apprendre C#\udemy\AgeCalc\obj\Debug\net6.0-windows\AgeCalc.AssemblyInfoInputs.cache
+D:\Code informatique\Apprendre C#\udemy\AgeCalc\obj\Debug\net6.0-windows\AgeCalc.AssemblyInfo.cs
+D:\Code informatique\Apprendre C#\udemy\AgeCalc\obj\Debug\net6.0-windows\AgeCalc.csproj.CoreCompileInputs.cache
+D:\Code informatique\Apprendre C#\udemy\AgeCalc\obj\Debug\net6.0-windows\AgeCalc.dll
+D:\Code informatique\Apprendre C#\udemy\AgeCalc\obj\Debug\net6.0-windows\refint\AgeCalc.dll
+D:\Code informatique\Apprendre C#\udemy\AgeCalc\obj\Debug\net6.0-windows\AgeCalc.pdb
+D:\Code informatique\Apprendre C#\udemy\AgeCalc\obj\Debug\net6.0-windows\AgeCalc.genruntimeconfig.cache
+D:\Code informatique\Apprendre C#\udemy\AgeCalc\obj\Debug\net6.0-windows\ref\AgeCalc.dll
