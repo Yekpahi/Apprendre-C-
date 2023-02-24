@@ -31,6 +31,7 @@
             this.yearID = new System.Windows.Forms.TextBox();
             this.valider = new System.Windows.Forms.Button();
             this.lb1 = new System.Windows.Forms.Label();
+            this.label1 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // yearID
@@ -54,18 +55,30 @@
             // lb1
             // 
             this.lb1.Font = new System.Drawing.Font("Segoe UI", 35F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.lb1.Location = new System.Drawing.Point(101, 21);
+            this.lb1.Location = new System.Drawing.Point(101, 42);
             this.lb1.Name = "lb1";
             this.lb1.Size = new System.Drawing.Size(635, 66);
             this.lb1.TabIndex = 2;
             this.lb1.Text = "Votre âge s\'affichera ici";
             this.lb1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
+            // label1
+            // 
+            this.label1.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.label1.Location = new System.Drawing.Point(90, 130);
+            this.label1.Margin = new System.Windows.Forms.Padding(10);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(143, 36);
+            this.label1.TabIndex = 3;
+            this.label1.Text = "Votre année de naissance";
+            this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.label1);
             this.Controls.Add(this.lb1);
             this.Controls.Add(this.valider);
             this.Controls.Add(this.yearID);
@@ -82,5 +95,6 @@
         private TextBox yearID;
         private Button valider;
         private Label lb1;
+        private Label label1;
     }
 }

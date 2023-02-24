@@ -30,8 +30,6 @@ namespace AgeCalc
             {
                 this.lb1.Text = age.ToString() + " ans";
             }
-            
-
 
         }
 

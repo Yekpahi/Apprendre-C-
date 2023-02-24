@@ -1,0 +1,17 @@
+D:\Code informatique\Apprendre C#\udemy\ForLoopApp\bin\Debug\net6.0-windows\ForLoopApp.exe
+D:\Code informatique\Apprendre C#\udemy\ForLoopApp\bin\Debug\net6.0-windows\ForLoopApp.deps.json
+D:\Code informatique\Apprendre C#\udemy\ForLoopApp\bin\Debug\net6.0-windows\ForLoopApp.runtimeconfig.json
+D:\Code informatique\Apprendre C#\udemy\ForLoopApp\bin\Debug\net6.0-windows\ForLoopApp.dll
+D:\Code informatique\Apprendre C#\udemy\ForLoopApp\bin\Debug\net6.0-windows\ForLoopApp.pdb
+D:\Code informatique\Apprendre C#\udemy\ForLoopApp\obj\Debug\net6.0-windows\ForLoopApp.csproj.AssemblyReference.cache
+D:\Code informatique\Apprendre C#\udemy\ForLoopApp\obj\Debug\net6.0-windows\ForLoopApp.Form1.resources
+D:\Code informatique\Apprendre C#\udemy\ForLoopApp\obj\Debug\net6.0-windows\ForLoopApp.csproj.GenerateResource.cache
+D:\Code informatique\Apprendre C#\udemy\ForLoopApp\obj\Debug\net6.0-windows\ForLoopApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code informatique\Apprendre C#\udemy\ForLoopApp\obj\Debug\net6.0-windows\ForLoopApp.AssemblyInfoInputs.cache
+D:\Code informatique\Apprendre C#\udemy\ForLoopApp\obj\Debug\net6.0-windows\ForLoopApp.AssemblyInfo.cs
+D:\Code informatique\Apprendre C#\udemy\ForLoopApp\obj\Debug\net6.0-windows\ForLoopApp.csproj.CoreCompileInputs.cache
+D:\Code informatique\Apprendre C#\udemy\ForLoopApp\obj\Debug\net6.0-windows\ForLoopApp.dll
+D:\Code informatique\Apprendre C#\udemy\ForLoopApp\obj\Debug\net6.0-windows\refint\ForLoopApp.dll
+D:\Code informatique\Apprendre C#\udemy\ForLoopApp\obj\Debug\net6.0-windows\ForLoopApp.pdb
+D:\Code informatique\Apprendre C#\udemy\ForLoopApp\obj\Debug\net6.0-windows\ForLoopApp.genruntimeconfig.cache
+D:\Code informatique\Apprendre C#\udemy\ForLoopApp\obj\Debug\net6.0-windows\ref\ForLoopApp.dll
