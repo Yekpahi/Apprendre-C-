@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Code informatique\\Apprendre C#\\udemy\\Dialog\\Dialog.csproj": {}
+    "D:\\Informatique\\Apprendre C#\\udemy\\Dialog\\Dialog.csproj": {}
   },
   "projects": {
-    "D:\\Code informatique\\Apprendre C#\\udemy\\Dialog\\Dialog.csproj": {
+    "D:\\Informatique\\Apprendre C#\\udemy\\Dialog\\Dialog.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Code informatique\\Apprendre C#\\udemy\\Dialog\\Dialog.csproj",
+        "projectUniqueName": "D:\\Informatique\\Apprendre C#\\udemy\\Dialog\\Dialog.csproj",
         "projectName": "Dialog",
-        "projectPath": "D:\\Code informatique\\Apprendre C#\\udemy\\Dialog\\Dialog.csproj",
+        "projectPath": "D:\\Informatique\\Apprendre C#\\udemy\\Dialog\\Dialog.csproj",
         "packagesPath": "C:\\Users\\princ\\.nuget\\packages\\",
-        "outputPath": "D:\\Code informatique\\Apprendre C#\\udemy\\Dialog\\obj\\",
+        "outputPath": "D:\\Informatique\\Apprendre C#\\udemy\\Dialog\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

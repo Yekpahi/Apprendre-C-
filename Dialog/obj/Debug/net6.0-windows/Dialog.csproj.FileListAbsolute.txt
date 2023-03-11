@@ -15,3 +15,21 @@ D:\Code informatique\Apprendre C#\udemy\Dialog\obj\Debug\net6.0-windows\refint\D
 D:\Code informatique\Apprendre C#\udemy\Dialog\obj\Debug\net6.0-windows\Dialog.pdb
 D:\Code informatique\Apprendre C#\udemy\Dialog\obj\Debug\net6.0-windows\Dialog.genruntimeconfig.cache
 D:\Code informatique\Apprendre C#\udemy\Dialog\obj\Debug\net6.0-windows\ref\Dialog.dll
+D:\Informatique\Apprendre C#\udemy\Dialog\bin\Debug\net6.0-windows\Dialog.exe
+D:\Informatique\Apprendre C#\udemy\Dialog\bin\Debug\net6.0-windows\Dialog.deps.json
+D:\Informatique\Apprendre C#\udemy\Dialog\bin\Debug\net6.0-windows\Dialog.runtimeconfig.json
+D:\Informatique\Apprendre C#\udemy\Dialog\bin\Debug\net6.0-windows\Dialog.dll
+D:\Informatique\Apprendre C#\udemy\Dialog\bin\Debug\net6.0-windows\Dialog.pdb
+D:\Informatique\Apprendre C#\udemy\Dialog\obj\Debug\net6.0-windows\Dialog.csproj.AssemblyReference.cache
+D:\Informatique\Apprendre C#\udemy\Dialog\obj\Debug\net6.0-windows\Dialog.Form1.resources
+D:\Informatique\Apprendre C#\udemy\Dialog\obj\Debug\net6.0-windows\Dialog.csproj.GenerateResource.cache
+D:\Informatique\Apprendre C#\udemy\Dialog\obj\Debug\net6.0-windows\Dialog.GeneratedMSBuildEditorConfig.editorconfig
+D:\Informatique\Apprendre C#\udemy\Dialog\obj\Debug\net6.0-windows\Dialog.AssemblyInfoInputs.cache
+D:\Informatique\Apprendre C#\udemy\Dialog\obj\Debug\net6.0-windows\Dialog.AssemblyInfo.cs
+D:\Informatique\Apprendre C#\udemy\Dialog\obj\Debug\net6.0-windows\Dialog.csproj.CoreCompileInputs.cache
+D:\Informatique\Apprendre C#\udemy\Dialog\obj\Debug\net6.0-windows\Dialog.dll
+D:\Informatique\Apprendre C#\udemy\Dialog\obj\Debug\net6.0-windows\refint\Dialog.dll
+D:\Informatique\Apprendre C#\udemy\Dialog\obj\Debug\net6.0-windows\Dialog.pdb
+D:\Informatique\Apprendre C#\udemy\Dialog\obj\Debug\net6.0-windows\Dialog.genruntimeconfig.cache
+D:\Informatique\Apprendre C#\udemy\Dialog\obj\Debug\net6.0-windows\ref\Dialog.dll
+D:\Informatique\Apprendre C#\udemy\Dialog\obj\Debug\net6.0-windows\Dialog.Properties.Resources.resources

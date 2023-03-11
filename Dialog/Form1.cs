@@ -48,5 +48,34 @@ namespace Dialog
             this.fontcolorID.ShowDialog();
             this.mytext.ForeColor = this.fontcolorID.Color;
         }
+
+        private void imgCharge_Click(object sender, EventArgs e)
+        {
+            this.file.ShowDialog();
+            string fn;
+            fn = this.file.FileName;
+            this.img.Image = Image.FromFile(fn);
+
+           
+        }
+
+        private void saveFileDialog1_FileOk(object sender, System.ComponentModel.CancelEventArgs e)
+        {
+
+        }
+
+        private void panel2_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            //Save as
+            this.saveAs.ShowDialog();
+            string sa;
+            sa = this.saveAs.FileName;
+            this.chemin2.Text = sa;
+        }
     }
 }
